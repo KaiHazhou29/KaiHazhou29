@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @KaiHazhou29
+- 👀 I’m interested in programming language such as python, c++
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on multiform
+- 📫 Reach me by send to my email: quangkiet314@gmail.com 
+- ⚡ Fun fact: I'm learning German
